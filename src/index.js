@@ -9,7 +9,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-     <MoralisProvider serverUrl="" appId="">
+     <MoralisProvider serverUrl="https://wrgbueztprwi.usemoralis.com:2053/server" appId="hWWCUNFTtA5Ir3Nou4bqzTf4Vd946zMZRSiedXko">
       <App />
     </MoralisProvider>
   </React.StrictMode>
