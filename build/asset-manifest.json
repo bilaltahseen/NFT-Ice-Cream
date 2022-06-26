@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/NFT-Ice-Cream/static/css/main.972b427b.css",
+    "main.js": "/NFT-Ice-Cream/static/js/main.2fa252ca.js",
+    "static/js/787.28cb0dcd.chunk.js": "/NFT-Ice-Cream/static/js/787.28cb0dcd.chunk.js",
+    "static/media/backgound-01.png": "/NFT-Ice-Cream/static/media/backgound-01.d494a372ca82e216f956.png",
+    "static/media/MetaMask_Fox.png": "/NFT-Ice-Cream/static/media/MetaMask_Fox.dabbc866dd8c0d30be75.png",
+    "static/media/logo.svg": "/NFT-Ice-Cream/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/NFT-Ice-Cream/index.html",
+    "main.972b427b.css.map": "/NFT-Ice-Cream/static/css/main.972b427b.css.map",
+    "main.2fa252ca.js.map": "/NFT-Ice-Cream/static/js/main.2fa252ca.js.map",
+    "787.28cb0dcd.chunk.js.map": "/NFT-Ice-Cream/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.972b427b.css",
+    "static/js/main.2fa252ca.js"
+  ]
+}
